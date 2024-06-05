@@ -27,7 +27,7 @@ public class Main {
 		
 		int answer = 0;
 		Arrays.sort(arr);
-		
+		int cnt;
 		int first = 0;
 		int last = arr.length - 1;
 		int mid = (last - first)/ 2;
